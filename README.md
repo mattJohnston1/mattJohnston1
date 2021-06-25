@@ -1,9 +1,5 @@
 ### Hi, my name's Matthew Johnston
 
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ...
-- ⚡ Fun fact: ...
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattJohnston1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
