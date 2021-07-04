@@ -1,5 +1,6 @@
 ### Hi, my name's Matthew Johnston
 
+Young aspiring software engineer and proud App Academy graduate (rigorous 1000+ hour full-stack software engineering course with a <3% acceptance rate). I enjoy learning and challenging myself.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattJohnston1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,7 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattJohnston1&count_private=true&hide=stars&show_icons=true)
 
 
-Young aspiring software engineer and proud App Academy graduate (rigorous 1000+ hour full-stack software engineering course with a <3% acceptance rate). I enjoy learning and challenging myself.
 
 
 <!--
