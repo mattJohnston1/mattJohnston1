@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattJohnston1&count_private=true&hide=stars&show_icons=true)
 
 
-
+Young aspiring software engineer and proud App Academy graduate (rigorous 1000+ hour full-stack software engineering course with a <3% acceptance rate). I enjoy learning and challenging myself.
 
 
 <!--
