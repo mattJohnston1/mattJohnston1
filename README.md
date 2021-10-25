@@ -8,9 +8,6 @@ Young aspiring software engineer and proud App Academy graduate (rigorous 1000+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattJohnston1&count_private=true&hide=stars&show_icons=true)
 
 
-
-
-
 <!--
 **mattJohnston1/mattJohnston1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
